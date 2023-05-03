@@ -3,6 +3,7 @@
 
 # Python Scraper with BS4 and Asyncio
 ![Logo](https://i.imgur.com/sXBNSKb.jpg)
+
 This scraper uses asynchronous libraries for efficient scraping, and contains an implemented Amazon base scraper. It also uses proxies to get information quickly and efficiently.
 
 # Requirements
